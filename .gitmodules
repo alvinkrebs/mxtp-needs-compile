@@ -1,0 +1,3 @@
+[submodule "mxtp-pre-compiled"]
+	path = mxtp-pre-compiled
+	url = https://github.com/alvinkrebs/mxtp-pre-compiled.git
